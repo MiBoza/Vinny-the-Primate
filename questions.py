@@ -15,16 +15,31 @@ def search(trait):
 
     return characters_new
 
-x=input('Is your character real?')
-if x=='y':
-    characters=search('-real-')
-else:
-    characters=search('-fiction-')
+def nsearch(trait):
+    
+    characters_new = []
 
-x=input('Is your character male?')
-if x=='y':
-    characters=search('-male-')
-else:
-    characters=search('-female-')
+    for i in characters:
+        if trait not in i:
+            characters_new.append(i)
+
+    return characters_new
+
+questions=[]
+attributes=[]
+
+f=open("questions.txt", "r")
+if f.mode == 'r':
+    for i in f.readlines():
+        questions.append(i[0:53].strip())
+        attributes.append(i[53:].strip())
+
+
+for i in range(0, len(questions)):
+    x=input(questions[i])
+    if x=='y':
+        characters=search(attributes[i])
+    else:
+        characters=nsearch(attributes[i])
 
 print(characters)
