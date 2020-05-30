@@ -9,5 +9,17 @@ with open(file, 'rb') as f:
     print('questions =', questions)
     Data = pickle.load(f)
     print('Data =', Data)
-    frequency = pickle.load(f)
-    print('frequency =', frequency)
+
+#m = rows
+m = len(characters)
+
+#n = columns
+n = len(questions)
+
+def Update(subject, q, a):
+
+def nQuestion(question):
+    global m
+    z = np.zeros((m, 1))
+    Data = np.concatenate((Data, z), 1)
+    frequency = np.concatenate((frequency, z), 1)
