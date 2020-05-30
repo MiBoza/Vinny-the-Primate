@@ -1,0 +1,7 @@
+Characters = 	['Frodo', 'Boza', 'Amy', 'Your Mum']
+Questions = 	['Is your character male?', 
+		 'Is your character Real?']
+Data Matrix:	[[1, 0],
+		 [1, 1],
+		 [0, 0],
+		 [0, 1]]
