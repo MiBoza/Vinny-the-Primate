@@ -1,12 +1,13 @@
 frodo = '-male-fiction-book-magic-frodo'
 boza = '-male-real-student-math-boza'
 amy = '-female-fiction-wife-criminal-amy'
-
+# Suggestion: characters should be a a class on its own, with its data
+# stored within a separate file for faster loading.
 
 characters = [frodo, boza, amy]
 
 def search(trait):
-    
+
     characters_new = []
 
     for i in characters:
@@ -16,7 +17,7 @@ def search(trait):
     return characters_new
 
 def nsearch(trait):
-    
+
     characters_new = []
 
     for i in characters:
