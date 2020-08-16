@@ -1,0 +1,364 @@
+熱血漢, ねっけつかん, Passionate, 0.192
+時折, ときおり, Sometimes, 0.192
+耐性, たいせい, Resilience, 0.192
+呪怨, じゅえん, Curse, 0.192
+拉致, らち, Abduction, 0.192
+命中, めいちゅう, Accuracy, 0.24
+万能, ばんのう, All mighty, 0.24
+解く, ほどく, to solve, 0.24
+具合, ぐあい, Condition, 0.24
+分量, ぶんりょう, Quantity, 0.24
+限界, げんかい, Limit, 0.24
+階段, かいだん, Stairs, 0.24
+捨てる, すてる, to discard, 0.24
+祝福, しゅくふく, Blessing, 0.24
+針, はり, Needle, 0.24
+保護観察, ほごかんさつ, Probation, 0.24
+零, れい, Zero, 0.24
+探る, さぐる, to explore, 0.24
+体積, たいせき, Volume, 0.24
+目印, めじるし, Landmark, 0.24
+逸れる, はぐれる, to stray, 0.24
+異変, いへん, Accident, 0.24
+警戒, けいかい, Vigilance, 0.24
+区域, くいき, Area, 0.24
+建物, たてもの, Building, 0.24
+破片, はへん, Debris, 0.24
+解除, かいじょ, Cancellation, 0.24
+洞窟, どうくつ, Cave, 0.24
+参加, さんか, Participation; addition, 0.24
+触る, さわる, to touch, 0.24
+妨害, ぼうがい, Obstruction, 0.24
+頑丈, がんじょ, Strong, 0.24
+例, れい, Example, 0.24
+検討, けんとう, Consideration, 0.24
+遠慮, えんりょ, Hesitation, 0.24
+錫, すず, Tin, 0.24
+普通, ふつう, Normal, 0.24
+弓矢, ゆみや, Bow and arrow, 0.24
+確率, かくりつ, Probability, 0.24
+潔い, いさぎよい, Pure, 0.258304
+探索, たんさく, Search, 0.3
+彼氏, かれし, Boyfriend, 0.3
+冒険, ぼうけん, Adventure, 0.3
+鼻, はな, Nose, 0.3
+何故, なぜ, Why?, 0.3
+庇う, かばう, to protect, 0.3
+属性, ぞくせい, Attribute, 0.3
+腹, はら, Stomach, 0.3
+状況, じょうきょう, Situation, 0.3
+得る, える, to obtain, 0.3
+無効, むこう, Null, 0.3
+種類, しゅるい, Type, 0.3
+投げる, なげる, to throw, 0.3
+試練, しれん, Trial, 0.3
+道順, みちじゅん, Directions, 0.3
+向いている, むいている, Suitable, 0.3
+相談, そうだん, Consultation, 0.3
+突撃, とつげき, Assault, 0.3
+脱出, だっしゅつ, Escape, 0.3
+悶絶, もんぜつ, Faint, 0.3
+置く, おく, to place, 0.3
+爆弾, ばくだん, Bomb, 0.3
+新島真,  , Makoto Niijima, 0.3
+何歳, なんさい, How old?, 0.3
+潜める, ひそめる, to conceal, 0.3
+曲面, きょくめん, Curved surface, 0.3
+発券, はっけん, Ticketing, 0.3
+殿, どの,  , 0.3
+係数, けいすう, Coefficient, 0.3
+動揺, どうよう, Unease, 0.3
+瞬間, しゅんかん, Moment, 0.3
+造形, ぞうけい, Moulding, 0.3
+二倍, にばい, Twice, 0.3
+諦める, あきらめる, to give up, 0.3
+輝き, かがやき, Radiance, 0.3
+未判明, みはんめい, Unidentified, 0.3
+映像, えいぞう, Video, 0.3
+面積, めんせき, Area, 0.3
+価値, かち, Value, 0.3
+狙う, ねらう, to aim, 0.3
+備える, そなえる, to prepare, 0.3
+酢酸, さくさん, Acetic acid, 0.3
+残り, のこり, Remaining, 0.3
+端子, たんし, Terminal, 0.3
+生徒, せいと, Student, 0.3
+謝る, あやまる, to apologise, 0.3
+回避, かいひ, Evasion, 0.3
+破滅, はめつ, Doom, 0.3
+確保する, かくほする, to secure, 0.3
+疾風, しっぷう, Gale, 0.3
+指示, しじ, Instructions, 0.3
+精進, しょうじん, Diligence, 0.3
+謎, なぞ, Mystery, 0.3
+負の数, ふのすう, Negative number, 0.3
+地震, じしん, Earthquake, 0.3
+精密, せいみつ, Precision, 0.3
+結束, けっそく, Unity, 0.3
+退路, たいろ, Way out, 0.3
+機械, きかい, Machinery, 0.3
+賛成, さんせい, Agreement, 0.3
+変化率, へんかりつ, Rate of change, 0.3
+状態異常, じょうたいいじょう, Ailment, 0.3
+把握, はあく, Grasp, 0.3
+趣, おもむき, Taste, 0.3
+毒薬, どくやく, Poison, 0.3
+老舗, しにせ, Long standing, 0.3
+酢, す, Vinegar, 0.3
+携帯電話, けいたいでんわ, Mobile phone, 0.3
+二乗, にじょう, Second power, 0.3
+鍵, かぎ, Key, 0.3
+怠る, おこたる, to ignore, 0.3
+永遠, えいえん, Eternity, 0.3
+湧る, わきる, to spring up, 0.3
+預ける, あずける, to entrust, 0.3
+記載, きさい, Description, 0.3
+心地, ここち, Feeling, 0.3
+環境, かんきょう, Environment, 0.3
+詳細, しょうさい, Details, 0.3
+申する, もうする, to say, 0.3
+横軸, よこじく, Horizontal axis, 0.3
+津々, しんしん, All the time, 0.3
+上達, じょうたつ, Progress, 0.3
+絡む, からむ, to entangle, 0.3
+通堂, つうどう, Normal (Aff), 0.3
+付着, ふちゃく, Adhesion, 0.3
+超上級, ちょうじょうきゅう, Super advanced, 0.3
+実数, じっすう, Real number, 0.3
+倒す, たおす, to defeat, 0.3
+凄い, すごい, Great, 0.3
+推理, すいり, Reasoning, 0.3
+耳打ち, みみうち, Whisper, 0.3
+対応, たいおう, Support, 0.3
+大丈夫, だいじょうぶ, All right, 0.3
+似顔絵, にがおえ, Portrait, 0.3
+得意, とくい, Specialty, 0.3
+計算, けいさん, Calculation, 0.3
+混じる, こんじる, to mix, 0.3
+お菓子, おかし, Sweets, 0.3
+床, やか, Floor, 0.3
+看板, かんばん, Billboard, 0.3
+防御, ぼうぎょ, Defence, 0.3
+応じて, おうじて, Depending, 0.3
+活躍, かつやく, Active; energetic, 0.3
+消費, しょうひ, Consumption, 0.3
+実交値, じっこうち, RMS value, 0.3
+噂, うわさ, Rumour, 0.3
+直接, ちょくせつ, Directly, 0.3
+区間, くかん, Interval, 0.3
+申し訳ありません, もうしわけうりません, Terribly sorry, 0.3
+奥村春,  , Haru Okumura, 0.3
+鍵穴, かぎあな, Keyhole, 0.3
+削除, さくじょ, Deletion, 0.3
+攻略, こうりゃく, Capture, 0.3
+勘, かん, Intuition, 0.3
+踏ん切り, ふんきり, Crossing, 0.3
+幼い, おさない,  Infant, 0.3
+呼ぶ, よぶ, to call, 0.3
+氷結, ひょうけつ, Ice, 0.3
+野生, やせい, Wild, 0.3
+差す, さす, to insert, 0.3
+寂しい, さびしい, Lonely, 0.3
+信用度, しんようど, Credibility, 0.3
+妖精, ようせい, Fairy, 0.3
+事態, じたい, Situation, 0.3
+任せる, まかせる, to entrust, 0.3
+じょうほう, じょうほう, Information, 0.3
+素晴らしい, すばらしい, Wonderful, 0.3
+微分する, 微分する, to differentiate, 0.3
+情報, じょうほう, Information, 0.3
+斜め, ななめ, Diagonal, 0.3
+慣れる, なれる, to get used to, 0.3
+磨く, みがく, to polish, 0.3
+位置, いち, Position, 0.3
+粉末, ふんまつ, Powder, 0.3
+軽減, けいげん, Alleviation, 0.3
+店頭, てんとう, Counter, 0.3
+震災, しんさい, Earthquake, 0.3
+期待, きたい, Expectation, 0.3
+売却, ばいきゃく, Sale, 0.3
+平面, へいめん, Plane, 0.3
+陸上部, りくじょうぶ, Track team, 0.3
+供給, きょうきゅう, Supply, 0.3
+斬新, ざんしん, Novelty, 0.3
+冗談, じょうだん, Joke, 0.3
+相棒, あいぼう, Partner, 0.3
+掃除, そうじ, Cleaning, 0.3
+将棋, しょうぎ, Shogi, 0.3
+斧, おの, Axe, 0.3
+繰り返す, くりかえす, to repeat, 0.3
+ある程度, あるていど, to some extent, 0.3
+目指す, めざす, to aim, 0.3
+各種, かくしゅ, Various, 0.3
+残念, ざんねん, Too bad, 0.3
+筆記具, ひっきぐ, Writing tools, 0.3
+権力, けんりょく, Strength, 0.3
+奇妙, きみょう, Strange, 0.3
+宜しい, よろしい, Good, 0.3
+手がかり, てがかり, Clue, 0.3
+健康, けんこう, Health, 0.3
+旨い, うまい, Delicious, 0.3
+居候, いそうろう, Residence, 0.3
+積分, せきぶん, Integral, 0.3
+周期, しゅうき, Period, 0.3
+酷い, ひどい, Horrible, 0.3
+怒る, おこる, to get angry, 0.3
+敵対, てきたい, Hostility, 0.3
+稀, まれ, Rare, 0.3
+映写機, えいしゃき, Projector, 0.3
+同列, どうれつ, Same row, 0.3
+塗る, ぬる, to paint, 0.3
+佐倉双葉,  , Futaba Sakura, 0.3
+苦しい, くるしい, Painful, 0.3
+歌詞, かし, Lyrics, 0.3
+仮定, かてい, Assumption, 0.3
+勝利, しょうり, Victory, 0.3
+細工, ざいく, Tactics, 0.3
+圧倒的, あっとうてき, Overwhelmingly, 0.3
+眩しい, まぶしい, Dazzling, 0.3
+不可解, ふかかい, Inexplicable, 0.3
+与える, あたえる, to bestow, 0.3
+喋る, しゃべる, to speak, 0.32288
+猛然, もうぜん, Fierce, 0.352
+結果, けっか, Result, 0.352
+閉じ込まれる, とじこまれる, to be trapped, 0.352
+責任, せきにん, Responsibility, 0.3536
+冤罪, えんざい, False charges, 0.3536
+雰囲気, ふいんき, Atmosphere, 0.3536
+内緒話, ないしょばなし, Secret conversation, 0.3536
+警察, けいさつ, Police, 0.392
+設置, せっち, Installation, 0.392
+指, ゆび, Finger, 0.392
+抵抗, ていこう, Resistor, 0.392
+不等式, ふとうしき, Inequality, 0.392
+支配人, しはいにん, Manager, 0.392
+喜多川祐介,  , Yusuke Kitagawa, 0.392
+念動, ねんどう, Telekinesis, 0.392
+定義, ていぎ, Definition, 0.392
+結構, けっこう, Quite, 0.392
+特徴, とくちょう, Characteristic, 0.392
+鋭い, するどい, Sharp, 0.392
+接続, せつぞく, Connection, 0.392
+需要, じゅよう, Demand, 0.392
+一斉に, いっせいに, All at once, 0.392
+駄目, だめ, No good, 0.392
+代入, だいにゅう, Substitution, 0.392
+野郎, やろう, Moefoe, 0.392
+撃破, げきは, Defeat, 0.44
+主役, しゅやく, Protagonist, 0.44
+施設, しせつ, Facility, 0.44
+商品, しょうひん, Merchandise, 0.44
+核熱, かくねつ, Nuclear, 0.44
+勝手, かって, Selfish, 0.44
+正の数, せいのすう, Positive number, 0.44
+味方, みかた, Ally, 0.44
+略, りゃく, Abbreviation, 0.44
+癖, くせ, Habit, 0.44
+無敵, むてき, Invincible, 0.44
+道具, どうぐ, Tool, 0.44
+出番, でばん, Turn, 0.44
+肩, かた, Shoulder, 0.44
+銅, どう, Copper; Bronze, 0.44
+平均, へいきん, Average, 0.44
+将軍, しょうぐん, Shogun, 0.44
+異常, いじょう, Abnormal, 0.44
+繋がる, つながる, to connect, 0.44
+街, まち, Road; city, 0.44
+構う, かまう, to mind, 0.44
+申し訳, もうしわけ,  , 0.44
+ , グルグルする, to go round and round, 0.44
+値, あたい, Value, 0.44
+神隠し, かみかくし, Divine Concealment, 0.44
+壁, かべ, Wall, 0.44
+厳重, げんじゅう, Secure, 0.44
+最適, さいてき, Optimal, 0.44
+約束, やくそく, Promise, 0.44
+物理, ぶつり, Physical, 0.44
+対面, たいめん, Meeting, 0.44
+騒ぐ, さわぐ, to make a noise, 0.44
+鼠, ねずみ, Mouse, 0.44
+不気味, ぶきみ, Creepy, 0.44
+地獄, じごく, Hell, 0.44
+窓, まど, Window, 0.44
+素敵, すてき, Lovely, 0.44
+気配, けはい, Sign, 0.44
+闇雲, やみくも, Blindly, 0.44
+驚く, おどろく, to be surprised, 0.44
+欲望, よくぼう, Desire, 0.44
+有難う, ありがとう, Thank you, 0.44
+禁物, きんもつ, Restriction, 0.44
+中断, ちゅうだん, Interruption, 0.44
+途中, とちゅう, On the way, 0.44
+一緒に, いっしょに, Together, 0.44
+気合, きあい, Battle cry, 0.44
+常に, つねに, Always, 0.44
+美味い, うまい, Delicious, 0.44
+既に, すでに, Already, 0.44
+道断, どうだん, Outrage, 0.44
+鑑定, かんてい, Appraisal, 0.44
+仕組み, しくみ, How it works, 0.44
+武器, ぶき, Weapon, 0.44
+余計, よけい, Unnecessary, 0.44
+一理ある, いちりある, to have a point, 0.44
+悩み, なやみ, Worry, 0.44
+監禁, かんきん, Confinement, 0.44
+舌, した, Tongue, 0.44
+集合, しゅうごう, Meeting; set, 0.44
+焼く, やく, to grill, 0.44
+避ける, さける, to evade, 0.44
+妖術, ようじゅつ, Sorcery, 0.44
+有効, ゆうこう, Effective, 0.44
+突然, とつぜん, Suddenly, 0.44
+縦書き, たてがき, Vertical writing, 0.44
+外見, がいけん, Appearance, 0.44
+出来事, できごと, Event, 0.44
+噛む, かむ, to bite, 0.44
+彼女, かのじょ, She; her; girlfriend, 0.44
+養女, ようじょ, Foster daughter, 0.44
+鴨志田卓,  , Suguru Kamoshida, 0.44
+機能, きのう, Function, 0.44
+すらい,  , Even, 0.44
+鈴, すず, Bell, 0.44
+高巻杏,  , Ann Takamaki, 0.44
+杖, つえ, Cane, 0.44
+蒸し返す, むしかえす, to reheat, 0.44
+手強い, てごわい, Tough, 0.44
+彼, かれ, He, 0.44
+歪む, ゆがむ, to distort, 0.44
+磁石, じしゃく, Magnet, 0.44
+明智吾郎,  , Goro Akechi, 0.44
+忠告, ちゅうこく, Warning, 0.44
+面倒, めんどう, Overseeing, 0.4416
+拭える, ぬぐえる, to wipe, 0.45088
+厳しい, きびしい, Severe, 0.4816
+端, はし, Edge, 0.4816
+傍, そば, Beside, 0.48288
+慌てる, あわてる, Panic, 0.48288
+試す, ためす, to try, 0.5136
+反応, はんのう, Reaction, 0.5136
+負荷, ふか, Load, 0.5136
+疎く, うとく, to loosen, 0.5136
+微笑み, ほほえみ, Weak smile, 0.5136
+裏, うら, Back, 0.552
+括る, くくる, to tie up, 0.552
+坂本竜司,  , Ryuji Sakamoto, 0.552
+品, しな, Goods, 0.552
+装備, そうび, Equipment, 0.552
+迷宮, めいきゅう, Labyrinth, 0.552
+ご存知, ごぞんじ, Awareness, 0.552
+敵, てき, Enemy, 0.552
+練習, れんしゅう, Review, 0.552
+拾う, ひろう, to pick up, 0.552
+怯える, おびえる, to be scared, 0.552
+情に厚, じょうにあつ, Not the brightest, 0.552
+震える, ふるえる, to tremble, 0.552
+飲み込む, のみこむ, to swallow, 0.552
+筆, ふで, Brush, 0.552
+襲う, おそう, to attack, 0.58528
+購入, こうにゅう, Purchase, 0.61088
+単純, たんじゅん, Simple, 0.61088
+務める, つとめる, to fill a role, 0.61088
+相性, あいしょう, Affinity; compatibility, 0.6416
+早口言葉, はやくちことば, Tongue Twister, 0.6416
+現れる, あらわれる, to appear, 0.6416
+小麦粉, こむぎこ, Wheat flour, 0.750963

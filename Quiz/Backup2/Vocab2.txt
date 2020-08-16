@@ -1,0 +1,14 @@
+潔い, いさぎよい, Pure, 0.192
+拉致, らち, Abduction, 0.24
+鋭い, するどい, Sharp, 0.24
+内緒話, ないしょばなし, Secret conversation, 0.24
+異変, いへん, Accident, 0.24
+一斉に, いっせいに, All at once, 0.24
+小麦粉, こむぎこ, Wheat flour, 0.24
+探る, さぐる, to explore, 0.24
+喋る, しゃべる, to speak, 0.24
+微笑み, ほほえみ, Weak smile, 0.24
+疎くて, うとくて, Sparse, 0.24
+坂本竜司,  , Ryuji Sakamoto, 0.24
+傍, そば, Beside, 0.24
+指, ゆび, Finger, 0.24

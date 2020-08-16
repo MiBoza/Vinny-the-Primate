@@ -1,0 +1,128 @@
+反応, はんのう, Reaction, 0.24, 0
+務める, つとめる, to fill a role, 0.24, 1
+微笑み, ほほえみ, Weak smile, 0.24, 2
+傍, そば, Beside, 0.24, 3
+拭える, ぬぐえる, to wipe, 0.24, 4
+喋る, しゃべる, to speak, 0.24, 5
+喜多川祐介,  , Yusuke Kitagawa, 0.24, 6
+内緒話, ないしょばなし, Secret conversation, 0.24, 7
+探る, さぐる, to explore, 0.24, 8
+異変, いへん, Accident, 0.24, 9
+一斉に, いっせいに, All at once, 0.24, 10
+潔い, いさぎよい, Pure, 0.24, 11
+小麦粉, こむぎこ, Wheat flour, 0.24, 12
+特徴, とくちょう, Characteristic, 0.24, 13
+鋭い, するどい, Sharp, 0.24, 14
+推理, すいり, Reasoning, 0.3, 15
+小麦粉, こむぎこ, Wheat flour, 0.3, 16
+筆記具, ひっきぐ, Writing tools, 0.3, 17
+鴨志田卓,  , Suguru Kamoshida, 0.3, 18
+湧る, わきる, to spring up, 0.3, 19
+責任, せきにん, Responsibility, 0.3, 20
+任せる, まかせる, to entrust, 0.3, 21
+心地, ここち, Feeling, 0.3, 22
+活躍, かつやく, Active; energetic, 0.3, 23
+途中, とちゅう, On the way, 0.3, 24
+頑丈, がんじょ, Strong, 0.3, 25
+潜める, ひそめる, to conceal, 0.3, 26
+凄い, すごい, Great, 0.3, 27
+申し訳, もうしわけ,  , 0.3, 28
+殿, どの,  , 0.3, 29
+看板, かんばん, Billboard, 0.3, 30
+責任, せきにん, Responsibility, 0.3, 31
+疎くて, うとくて, Sparse, 0.3, 32
+妖術, ようじゅつ, Sorcery, 0.3, 33
+裏, うら, Back, 0.3, 34
+絡む, からむ, to entangle, 0.3, 35
+括る, くくる, to tie up, 0.3, 36
+鍵穴, かぎあな, Keyhole, 0.3, 37
+拉致, らち, Abduction, 0.3, 38
+驚く, おどろく, to be surprised, 0.3, 39
+神隠し, かみかくし, Divine Concealment, 0.3, 40
+申する, もうする, to say, 0.3, 41
+突然, とつぜん, Suddenly, 0.3, 42
+出来事, できごと, Event, 0.3, 43
+味方, みかた, Ally, 0.3, 44
+普通, ふつう, Normal, 0.3, 45
+対面, たいめん, Meeting, 0.3, 46
+一緒に, いっしょに, Together, 0.3, 47
+新島真,  , Makoto Niijima, 0.3, 48
+奥村春,  , Haru Okumura, 0.3, 49
+圧倒的, あっとうてき, Overwhelmingly, 0.3, 51
+監禁, かんきん, Confinement, 0.3, 52
+手がかり, てがかり, Clue, 0.3, 53
+道断, どうだん, Outrage, 0.3, 54
+厳しい, きびしい, Severe, 0.3, 55
+筆, ふで, Brush, 0.3, 56
+主役, しゅやく, Protagonist, 0.3, 57
+映像, えいぞう, Video, 0.3, 59
+ご存知, ごぞんじ, Awereness, 0.3, 60
+準備, じゅんび, Preparations, 0.3, 61
+気配, けはい, Sign, 0.3, 62
+佐倉双葉,  , Futaba Sakura, 0.3, 63
+権力, けんりょく, Strength, 0.3, 64
+斬新, ざんしん, Novelty, 0.3, 65
+忠告, ちゅうこく, Warning, 0.3, 66
+微笑み, ほほえみ, Weak smile, 0.3, 67
+新島真,  , Makoto Niijima, 0.3, 68
+諦める, あきらめる, to give up, 0.3, 69
+構う, かまう, to mind, 0.3, 70
+坂本竜司,  , Ryuji Sakamoto, 0.3, 71
+施設, しせつ, Facility, 0.3, 72
+一理ある, いちりある, to have a point, 0.3, 73
+各種, かくしゅ, Various, 0.3, 74
+厳しい, きびしい, Severe, 0.352, 75
+襲う, おそう, to attack, 0.352, 76
+単純, たんじゅん, Simple, 0.392, 77
+野郎, やろう, Moefoe, 0.392, 78
+試す, ためす, to try, 0.392, 79
+支配人, しはいにん, Manager, 0.392, 80
+手強い, てごわい, Tough, 0.44, 81
+無敵, むてき, Invincible, 0.44, 82
+高巻杏,  , Ann Takamaki, 0.44, 83
+妖術, ようじゅつ, Sorcery, 0.44, 84
+明智吾郎,  , Goro Akechi, 0.44, 85
+余計, よけい, Unnecessary, 0.44, 86
+好都合, こうつごう, Convenient, 0.44, 87
+有難う, ありがとう, Thank you, 0.44, 88
+発祥, はっしょう, Origin, 0.44, 89
+早口言葉, はやくちことば, Tongue Twister, 0.44, 90
+地獄, じごく, Hell, 0.44, 91
+小売, こうり, Retail, 0.44, 92
+描ける, かける, to draw, 0.44, 93
+騒ぐ, さわぐ, to make a noise, 0.44, 94
+噛む, かむ, to bite, 0.44, 95
+情に厚, じょうにあつ, Not the brightest, 0.44, 96
+外見, がいけん, Appearance, 0.44, 97
+彼, かれ, He, 0.44, 98
+噛む, かむ, to bite, 0.44, 99
+商品, しょうひん, Merchandise, 0.44, 100
+服装, ふくそ, Attire, 0.44, 101
+現れる, あらわれる, to appear, 0.44, 102
+蒸し返す, むしかえす, to reheat, 0.44, 103
+癖, くせ, Habit, 0.44, 104
+ , ほっとく, to ignore, 0.44, 105
+驚く, おどろく, to be surprised, 0.44, 106
+閉ざさる, とざさる, to close, 0.44, 107
+鼠一匹すらい, ねずみいっぴきすらい, Not even a mouse, 0.44, 108
+中断, ちゅうだん, Interruption, 0.44, 109
+敵, てき, Enemy, 0.44, 110
+気合, きあい, Battle cry, 0.44, 111
+警官, けいかん, Police Officer, 0.44, 113
+震える, ふるえる, to tremble, 0.44, 114
+猛然, もうぜん, Fierce, 0.44, 115
+禁物, きんもつ, Restriction, 0.44, 116
+閉じ込まれる, とじこまれる, to be trapped, 0.44, 117
+結局, けっきょく, After all, 0.44, 118
+舌, した, Tongue, 0.44, 119
+技師, ぎし, Engineer, 0.552, 120
+効く, きく, to work, 0.552, 121
+坂本竜司,  , Ryuji Sakamoto, 0.552, 122
+従う, したがう, to obey, 0.552, 123
+山盛り, やまもり, Heaping, 0.552, 124
+奴, やつ, Guy, 0.552, 125
+早口言葉, はやくちことば, Tongue Twister, 0.552, 126
+怯える, おびえる, to be scared, 0.552, 127
+不平, ふへい, Complaint, 0.552, 128
+裏切り, うらぎり, Treason, 0.6416, 129
+効果, こうか, Effect, 0.71328, 130
